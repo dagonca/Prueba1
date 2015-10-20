@@ -2,7 +2,7 @@
 public class prueba2 {
 
 	public static void main(String[] args) {
-	System.out.println("miguel cara pene");
+	System.out.println("actualizado!");
 
 	}
 
