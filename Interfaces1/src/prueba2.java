@@ -2,7 +2,7 @@
 public class prueba2 {
 
 	public static void main(String[] args) {
-	System.out.println("actualizado!");
+	System.out.println("master!");
 
 	}
 
